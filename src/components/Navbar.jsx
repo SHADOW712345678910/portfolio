@@ -46,7 +46,7 @@ const Navbar = () => {
       </ul>
 
       {/* Hamburger */}
-      <div onClick={handleClick} className='md:hidden z-10 relative right-56'>
+      <div onClick={handleClick} className='md:hidden z-10 pl-[84vw] '>
         {!nav ? <FaBars /> : <FaTimes />}
       </div>
 

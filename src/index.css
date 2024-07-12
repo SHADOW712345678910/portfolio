@@ -16,11 +16,12 @@
 
 .content-div {
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 371px;
     background-position: center;
-    height: 250px;
-    width: 500px;
+    height: 182px;
+    width: 369px;
 }
+
 
 .content-div:hover {
     background-image: linear-gradient(
